@@ -9,7 +9,7 @@
     "@ethersproject/experimental": "5.7.0",
     "@types/glob": "8.0.0",
     "commander": "9.4.1",
-    "dotenv": "16.0.3",
+    "dotenv": "16.1.1",
     "ethers": "5.7.2",
     "glob": "8.0.3",
     "ts-node": "10.9.1",
